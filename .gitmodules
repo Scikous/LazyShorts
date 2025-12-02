@@ -1,0 +1,6 @@
+[submodule "Aurata"]
+	path = Aurata
+	url = git@github.com:Scikous/Aurata.git
+[submodule "Sagex"]
+	path = Sagex
+	url = git@github.com:Scikous/Sagex.git
